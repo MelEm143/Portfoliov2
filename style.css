@@ -42,7 +42,7 @@ section{
 /* Preloader */
 /* Navigation Bar */
 header{
-    /* position: fixed; */
+    position: fixed;
     width: 100%;
     top: 0;
     right: 0;
