@@ -42,7 +42,7 @@ section{
 /* Preloader */
 /* Navigation Bar */
 header{
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     top: 0;
     right: 0;
@@ -442,17 +442,6 @@ form textarea{
       grid-template-columns: 1fr;
     }
     .about-img {
-      display: flex;
-      justify-content: center;
-    }
-    .skills-container {
-      grid-template-columns: 1fr;
-    }
-    .skills-img img {
-      padding-left: 0;
-    }
-    .skills-img {
-      padding-top: 2rem;
       display: flex;
       justify-content: center;
     }
