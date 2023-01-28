@@ -210,35 +210,7 @@ header{
     font-size: 1.1.rem;
     font-weight: 500;
 }
-.light-bar{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 0.5rem;
-    background: hsla(260, 100%, 44%, 0.4);
-    border-radius: 0.5rem;
-}
-.percent-bar{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 0.5rem;
-    background: var(--main-color);
-    border-radius: 0.5rem;
-}
-.html-bar{
-    width: 90%;
-}
-.css-bar{
-    width: 50%;
-}
-.js-bar{
-    width: 20%;
-}
-.php-bar{
-    width: 20%;
-}
+
 /* Services Section */
 .services-content{
     display: grid;
