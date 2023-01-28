@@ -162,6 +162,7 @@ header{
 }
 .about-img img{
     width: 80%;
+    border-radius: 50%;
 }
 .about-text {
     font-size: var(--p-font);
